@@ -1,7 +1,7 @@
 # DataStructures-Project1
 Assignment 1 of my Data Structures and Algorithms project course
 
-CS 165 Project #1 — Analyzing Sorting Algorithms (Phase 1)
+CS 165 Project #1 — Analyzing Sorting Algorithms
 Project 1 involves implementing and testing various sorting algorithms experimentally to determine their real-world running times. In particular, for Phase 1 you will need to implement each of the following sorting algorithms:
 
 1. Insertion-sort
